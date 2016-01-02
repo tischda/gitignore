@@ -5,7 +5,7 @@
 @echo off
 setlocal
 
-set outfile=%USERPROFILE%\.gitignore_global
+set outfile=%HOME%\.gitignore_global
 
 del /Q %outfile% 2> nul
 
