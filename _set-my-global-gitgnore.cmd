@@ -20,7 +20,7 @@ _Global\CodeKit.gitignore
 _Global\CVS.gitignore
 _Global\DartEditor.gitignore
 _Global\Dreamweaver.gitignore
-_Global\Eclipse.gitignore
+Global\Eclipse.gitignore
 _Global\EiffelStudio.gitignore
 _Global\Emacs.gitignore
 _Global\Ensime.gitignore
@@ -75,7 +75,7 @@ C.gitignore
 _"C++.gitignore"
 _CakePHP.gitignore
 _CFWheels.gitignore
-_ChefCookbook.gitignore
+ChefCookbook.gitignore
 _Clojure.gitignore
 CMake.gitignore
 _CodeIgniter.gitignore
@@ -102,7 +102,7 @@ _ForceDotCom.gitignore
 _Fortran.gitignore
 _FuelPHP.gitignore
 _Gcov.gitignore
-_GitBook.gitignore
+GitBook.gitignore
 Go.gitignore
 Gradle.gitignore
 _Grails.gitignore
