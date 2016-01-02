@@ -1,6 +1,5 @@
 *.pydevproject
 .metadata
-.gradle
 bin/
 tmp/
 *.tmp
@@ -37,3 +36,6 @@ local.properties
 
 # TeXlipse plugin
 .texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
